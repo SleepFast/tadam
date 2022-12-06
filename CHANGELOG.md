@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/SleepFast/tadam/compare/v1.4.0...v1.4.1) (2022-12-06)
+
+
+### Bug Fixes
+
+* sergsdg ([d4c1d95](https://github.com/SleepFast/tadam/commit/d4c1d952234cbbbfd9a6aef5a49995d22f69ba1c))
+
 ## [1.4.0](https://github.com/SleepFast/tadam/compare/v1.3.0...v1.4.0) (2022-12-06)
 
 
