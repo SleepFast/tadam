@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/SleepFast/tadam/compare/v1.2.0...v1.3.0) (2022-12-06)
+
+
+### Bug Fixes
+
+* link commits ([ea68298](https://github.com/SleepFast/tadam/commit/ea6829885c2c07d2802b29390b679303e4728ec6))
+
 ## [1.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.1.1...v1.2.0) (2022-12-06)
 
 
