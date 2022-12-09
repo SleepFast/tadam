@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/SleepFast/tadam/compare/v1.6.2...v2.0.0) (2022-12-09)
+
+
+### Bug Fixes
+
+* **sfg:** test ([72f1249](https://github.com/SleepFast/tadam/commit/72f1249bf5160eee26cd030c0bff25c29550da86))
+
 ### [1.6.2](https://github.com/SleepFast/tadam/compare/v1.6.1...v1.6.2) (2022-12-09)
 
 
