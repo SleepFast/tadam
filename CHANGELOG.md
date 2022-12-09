@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.1](https://github.com/SleepFast/tadam/compare/v1.5.0...v1.5.1) (2022-12-09)
+
+
+### Bug Fixes
+
+* **add doc:** ajout d'une doc pour le versionning/changelog ([16bea95](https://github.com/SleepFast/tadam/commit/16bea957ac35160de41152b0b6df7d9c20001f99))
+
 ## [1.5.0](https://github.com/SleepFast/tadam/compare/v1.4.1...v1.5.0) (2022-12-09)
 
 
