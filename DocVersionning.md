@@ -20,14 +20,22 @@ git cz
 
 - rentrer yes si c'est un gros changement (nouvelle version des guide lines)
 
-- enter yes if only you have a ticket for this change
+- rentrer yes si il y a un ticket lié à votre dev puis renseigner son nom, exemple : KALFRONT-32
 
 ### Procédure de MAJ du changelog :
 
 # utiliser npm run release
 
+Si il y a un breaking changes (nouvelle version du site) alors taper les commandes :
+
+```bash
+npm run release:major
+git push --follow-tags 
+```
+
+sinon
+
 ```bash
 npm run release
 git push --follow-tags 
 ```
-
