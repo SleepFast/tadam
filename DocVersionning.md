@@ -18,7 +18,7 @@ git cz
 
 - (facultatif) si besoin rentrer plus d'infos sur le commit
 
-## - ATTENTION ICI METTRE YES SEULEMENT SI C'EST UN GROS CHANGEMENT (nouvelle version des guid lines), CELA CHANGERA LE VERSION MAJEUR DE L'APPLICATION.
+- ATTENTION ICI METTRE YES SEULEMENT SI C'EST UN GROS CHANGEMENT (nouvelle version des guid lines), CELA CHANGERA LE VERSION MAJEUR DE L'APPLICATION.
 
 - enter yes if only you have a ticket for this change
 
