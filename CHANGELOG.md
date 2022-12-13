@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/SleepFast/tadam/compare/v2.0.0...v2.0.1) (2022-12-13)
+
+
+### Bug Fixes
+
+* **navbutton:** changement du style ([cd7096d](https://github.com/SleepFast/tadam/commit/cd7096d9f37fbd70100a83284a7034c51db1e647))
+
 ## [2.0.0](https://github.com/SleepFast/tadam/compare/v1.6.2...v2.0.0) (2022-12-09)
 
 
